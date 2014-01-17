@@ -1,0 +1,10 @@
+de6ff6e05ab3eb48c89b074b5ac63989 *DESCRIPTION
+7d1b70dcb750075a047f3f7eb2ee9e21 *NAMESPACE
+7b458716144b69bd58f7c3bc56cbd20e *R/correlate.R
+63ca2594fea0c7e0e6ded17dfa3a8106 *R/correlate.permutate.R
+8236b24dcc6a811e646c902af44fb46c *R/correlate.roughly.R
+24f61932759f331a9d530c84b833fd1c *R/correlate.roughly.permutate.R
+ca57ece178d0440fd0f530b605f830f9 *R/correlate.split.R
+4b1c33d391dfe5c94297c28792800106 *R/createCorMatrix.R
+81b3278d374c6e4ed08c9ce5d70a0f73 *R/createTolMatrix.R
+f44e59383af4193e9ffc890f4c991c9a *man/correlate.Rd
